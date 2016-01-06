@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1388534400000,
+        "author": "Pete Hunt",
+        "text": "Hey there!"
+    },
+    {
+        "id": 1420070400000,
+        "author": "Paul O’Shannessy",
+        "text": "React is *great*!"
+    },
+    {
+        "id": 1420070401230,
+        "author": "Dalton",
+        "text": "React is different!"
+    },
+    {
+        "id": 1450186736699,
+        "author": "Dalton",
+        "text": "Its true"
+    },
+    {
+        "id": 1450186864657,
+        "author": "Dalton",
+        "text": "fast comment"
+    },
+    {
+        "id": 1451916315755,
+        "author": "Dalton",
+        "text": "Another comment"
+    }
+]
